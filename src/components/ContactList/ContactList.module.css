@@ -1,0 +1,19 @@
+.contacts__list {
+  max-width: 420px;
+  margin-left: 20px;
+  padding: 0;
+  list-style: inside;
+  font-size: 20px;
+}
+
+.error {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  color: #001ead;
+}
+
+.error_icon {
+  margin-bottom: -5px;
+}
